@@ -19,7 +19,7 @@ To set up the project on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/JIOMART-ML-Prediction.git
+   git clone https://github.com/prathoseraaj/test1devops.git
 
  ty![image](https://github.com/user-attachments/assets/96dcc8c9-0d72-42c2-887d-f24a2827b7ec)
 
